@@ -18,10 +18,10 @@ I'm currently on an exciting journey to become a **Data Analyst**. I enjoy worki
 - **Others**: Excel, Jupyter Notebook, Git & GitHub
 
 ## 📁 Projects I'm Working On:
-- ✔️ Sales data analysis using Excel
-- ✔️ E-commerce customer insights with SQL
-- ✔️ COVID-19 data dashboard using Power BI
-- ✔️ Exploratory data analysis (EDA) with Python
+- ✔️ Power bi monthly sales dashboard
+- ✔️ Book store analysis
+- ✔️ Vrinda store data analysis
+
 
 ## 📈 GitHub Stats
 
@@ -30,9 +30,8 @@ I'm currently on an exciting journey to become a **Data Analyst**. I enjoy worki
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox)
 
 ## 📫 How to reach me:
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- 📧 Email: your.email@example.com
-
+- 💼 LinkedIn: https://www.linkedin.com/in/gauri-gunjan-kanojia-95449331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📧 Email: gaurikanojia5@gmail.com
 > “Without data, you're just another person with an opinion.” – W. Edwards Deming
 
 Thanks for visiting! 🚀
